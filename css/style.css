@@ -18,12 +18,12 @@ h1 {
     margin: 0 auto;
 }
 
-.results {
+.products {
     display: flex;
     flex-wrap: wrap;
 }
 
-.result {
+.product {
     margin: 1rem;
     padding: 1rem;
     max-width: 200px;
