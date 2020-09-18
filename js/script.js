@@ -11,8 +11,6 @@ async function fetchAPI() {
 
         const product = json.data;
 
-        console.log(product);
-
         createHTML(product);
         searchProducts(product);
 
